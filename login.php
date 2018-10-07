@@ -12,7 +12,7 @@
     <div class ="container">
 <form class ="rform" action ="index.php" method ="post">
         <p><input type = "text" name ="lemail" placeholder ="Enter email" required></p>
-        <p><input type = "text" name ="lpwd" placeholder ="Enter password"></p>
+        <p><input type = "text" name ="lpwd" placeholder ="Enter password"required></p>
         <input type = "submit" value ="Sign in">
         <input type = "submit" value ="Forgot password">
     </form>
